@@ -28,7 +28,7 @@ La sostenibilidad se logra gracias a tres pilares: el económico, el social y el
 
 ## Todos los ODS propuestos
 
-![ODS](images/ODS.png)
+![ODS](../images/ODS.png)
 
 ## Acciones sostenibles en informática
 * [x] Apagar los equipos cuando no se estén usando.  
